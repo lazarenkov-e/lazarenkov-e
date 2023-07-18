@@ -6,5 +6,3 @@
 - SQL - SQLite - PostgreSQL
 - Gunicorn - Nginx - Docker - Linux - Yandex.Cloud
 - VS Code - Git - Github
-
-👯 I’m looking to collaborate on interesting projects
